@@ -8,8 +8,8 @@ import (
 	"bufio"
 	"encoding/hex"
 	"fmt"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcutil/base58"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcutil/base58"
 	"os"
 )
 
